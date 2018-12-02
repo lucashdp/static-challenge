@@ -1,0 +1,19 @@
+{
+  "name": "static-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucashdp/static-challenge.git"
+  },
+  "author": "Lucas Duarte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucashdp/static-challenge/issues"
+  },
+  "homepage": "https://github.com/lucashdp/static-challenge#readme"
+}
