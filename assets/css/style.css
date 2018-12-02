@@ -726,3 +726,345 @@
   src: local('Roboto Black'), local('Roboto-Black'), url(https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmYUtfBBc4.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
+
+.recentcomments a {
+    display: inline !important;
+    padding: 0 !important;
+    margin: 0 !important
+}
+
+.block-title>span,
+.block-title>span>a,
+.block-title>a,
+.block-title>label,
+.widgettitle,
+.widgettitle:after,
+.td-trending-now-title,
+.td-trending-now-wrapper:hover .td-trending-now-title,
+.wpb_tabs li.ui-tabs-active a,
+.wpb_tabs li:hover a,
+.vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active>a,
+.vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover>a,
+.td_block_template_1 .td-related-title .td-cur-simple-item,
+.woocommerce .product .products h2:not(.woocommerce-loop-product__title),
+.td-subcat-filter .td-subcat-dropdown:hover .td-subcat-more,
+.td-weather-information:before,
+.td-weather-week:before,
+.td_block_exchange .td-exchange-header:before,
+.td-theme-wrap .td_block_template_3 .td-block-title>*,
+.td-theme-wrap .td_block_template_4 .td-block-title>*,
+.td-theme-wrap .td_block_template_7 .td-block-title>*,
+.td-theme-wrap .td_block_template_9 .td-block-title:after,
+.td-theme-wrap .td_block_template_10 .td-block-title::before,
+.td-theme-wrap .td_block_template_11 .td-block-title::before,
+.td-theme-wrap .td_block_template_11 .td-block-title::after,
+.td-theme-wrap .td_block_template_14 .td-block-title,
+.td-theme-wrap .td_block_template_15 .td-block-title:before,
+.td-theme-wrap .td_block_template_17 .td-block-title:before {
+    background-color: #222
+}
+
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+    background-color: #222 !important
+}
+
+.block-title,
+.td_block_template_1 .td-related-title,
+.wpb_tabs .wpb_tabs_nav,
+.vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container,
+.woocommerce div.product .woocommerce-tabs ul.tabs:before,
+.td-theme-wrap .td_block_template_5 .td-block-title>*,
+.td-theme-wrap .td_block_template_17 .td-block-title,
+.td-theme-wrap .td_block_template_17 .td-block-title::before {
+    border-color: #222
+}
+
+.td-theme-wrap .td_block_template_4 .td-block-title>*:before,
+.td-theme-wrap .td_block_template_17 .td-block-title::after {
+    border-color: #222 transparent transparent transparent
+}
+
+.td-menu-background:before,
+.td-search-background:before {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, .5) 0%, rgba(0, 0, 0, .6) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='rgba(0,0,0,0.5)', endColorstr='rgba(0,0,0,0.6)', GradientType=0)
+}
+
+.td-footer-wrapper,
+.td-footer-wrapper .td_block_template_7 .td-block-title>*,
+.td-footer-wrapper .td_block_template_17 .td-block-title,
+.td-footer-wrapper .td-block-title-wrap .td-wrapper-pulldown-filter {
+    background-color: #111
+}
+
+.td-footer-wrapper::before {
+    background-image: url(https://demo.tagdiv.com/newspaper/wp-content/uploads/2017/04/footer-bg2.jpg)
+}
+
+.td-footer-wrapper::before {
+    background-size: cover
+}
+
+.td-footer-wrapper::before {
+    background-position: center center
+}
+
+.td-footer-wrapper::before {
+    opacity: .1
+}
+
+.td-menu-background,
+.td-search-background {
+    background-image: url(https://demo.tagdiv.com/newspaper/wp-content/uploads/2016/05/mobile-bg.jpg)
+}
+
+.white-popup-block:before {
+    background-image: url(https://demo.tagdiv.com/newspaper/wp-content/uploads/2016/05/login-mod.jpg)
+}
+
+body .td_uid_22_5b32897830469_rand .td_module_wrap:hover .entry-title a,
+body .td_uid_22_5b32897830469_rand .td-pulldown-filter-link:hover,
+body .td_uid_22_5b32897830469_rand .td-subcat-item a:hover,
+body .td_uid_22_5b32897830469_rand .td-subcat-item .td-cur-simple-item,
+body .td_uid_22_5b32897830469_rand .td_quote_on_blocks,
+body .td_uid_22_5b32897830469_rand .td-opacity-cat .td-post-category:hover,
+body .td_uid_22_5b32897830469_rand .td-opacity-read .td-read-more a:hover,
+body .td_uid_22_5b32897830469_rand .td-opacity-author .td-post-author-name a:hover,
+body .td_uid_22_5b32897830469_rand .td-instagram-user a {
+    color: #f9c100
+}
+
+body .td_uid_22_5b32897830469_rand .td-next-prev-wrap a:hover,
+body .td_uid_22_5b32897830469_rand .td-load-more-wrap a:hover {
+    background-color: #f9c100;
+    border-color: #f9c100
+}
+
+body .td_uid_22_5b32897830469_rand .block-title>*,
+body .td_uid_22_5b32897830469_rand .td-trending-now-title,
+body .td_uid_22_5b32897830469_rand .td-read-more a,
+body .td_uid_22_5b32897830469_rand .td-weather-information:before,
+body .td_uid_22_5b32897830469_rand .td-weather-week:before,
+body .td_uid_22_5b32897830469_rand .td-subcat-dropdown:hover .td-subcat-more,
+body .td_uid_22_5b32897830469_rand .td-exchange-header:before,
+body .td-footer-wrapper .td_uid_22_5b32897830469_rand .td-post-category,
+body .td_uid_22_5b32897830469_rand .td-post-category:hover {
+    background-color: #f9c100
+}
+
+body .td-footer-wrapper .td_uid_22_5b32897830469_rand .block-title>* {
+    padding: 6px 7px 5px;
+    line-height: 1
+}
+
+body .td_uid_22_5b32897830469_rand .block-title {
+    border-color: #f9c100
+}
+
+body .td_uid_36_5b3289783295e_rand .td_module_wrap:hover .entry-title a,
+body .td_uid_36_5b3289783295e_rand .td-pulldown-filter-link:hover,
+body .td_uid_36_5b3289783295e_rand .td-subcat-item a:hover,
+body .td_uid_36_5b3289783295e_rand .td-subcat-item .td-cur-simple-item,
+body .td_uid_36_5b3289783295e_rand .td_quote_on_blocks,
+body .td_uid_36_5b3289783295e_rand .td-opacity-cat .td-post-category:hover,
+body .td_uid_36_5b3289783295e_rand .td-opacity-read .td-read-more a:hover,
+body .td_uid_36_5b3289783295e_rand .td-opacity-author .td-post-author-name a:hover,
+body .td_uid_36_5b3289783295e_rand .td-instagram-user a {
+    color: #4caf50
+}
+
+body .td_uid_36_5b3289783295e_rand .td-next-prev-wrap a:hover,
+body .td_uid_36_5b3289783295e_rand .td-load-more-wrap a:hover {
+    background-color: #4caf50;
+    border-color: #4caf50
+}
+
+body .td_uid_36_5b3289783295e_rand .block-title>*,
+body .td_uid_36_5b3289783295e_rand .td-trending-now-title,
+body .td_uid_36_5b3289783295e_rand .td-read-more a,
+body .td_uid_36_5b3289783295e_rand .td-weather-information:before,
+body .td_uid_36_5b3289783295e_rand .td-weather-week:before,
+body .td_uid_36_5b3289783295e_rand .td-subcat-dropdown:hover .td-subcat-more,
+body .td_uid_36_5b3289783295e_rand .td-exchange-header:before,
+body .td-footer-wrapper .td_uid_36_5b3289783295e_rand .td-post-category,
+body .td_uid_36_5b3289783295e_rand .td-post-category:hover {
+    background-color: #4caf50
+}
+
+body .td-footer-wrapper .td_uid_36_5b3289783295e_rand .block-title>* {
+    padding: 6px 7px 5px;
+    line-height: 1
+}
+
+body .td_uid_36_5b3289783295e_rand .block-title {
+    border-color: #4caf50
+}
+
+body .td_uid_42_5b328978347e5_rand .td_module_wrap:hover .entry-title a,
+body .td_uid_42_5b328978347e5_rand .td-pulldown-filter-link:hover,
+body .td_uid_42_5b328978347e5_rand .td-subcat-item a:hover,
+body .td_uid_42_5b328978347e5_rand .td-subcat-item .td-cur-simple-item,
+body .td_uid_42_5b328978347e5_rand .td_quote_on_blocks,
+body .td_uid_42_5b328978347e5_rand .td-opacity-cat .td-post-category:hover,
+body .td_uid_42_5b328978347e5_rand .td-opacity-read .td-read-more a:hover,
+body .td_uid_42_5b328978347e5_rand .td-opacity-author .td-post-author-name a:hover,
+body .td_uid_42_5b328978347e5_rand .td-instagram-user a {
+    color: #607d8b
+}
+
+body .td_uid_42_5b328978347e5_rand .td-next-prev-wrap a:hover,
+body .td_uid_42_5b328978347e5_rand .td-load-more-wrap a:hover {
+    background-color: #607d8b;
+    border-color: #607d8b
+}
+
+body .td_uid_42_5b328978347e5_rand .block-title>*,
+body .td_uid_42_5b328978347e5_rand .td-trending-now-title,
+body .td_uid_42_5b328978347e5_rand .td-read-more a,
+body .td_uid_42_5b328978347e5_rand .td-weather-information:before,
+body .td_uid_42_5b328978347e5_rand .td-weather-week:before,
+body .td_uid_42_5b328978347e5_rand .td-subcat-dropdown:hover .td-subcat-more,
+body .td_uid_42_5b328978347e5_rand .td-exchange-header:before,
+body .td-footer-wrapper .td_uid_42_5b328978347e5_rand .td-post-category,
+body .td_uid_42_5b328978347e5_rand .td-post-category:hover {
+    background-color: #607d8b
+}
+
+body .td-footer-wrapper .td_uid_42_5b328978347e5_rand .block-title>* {
+    padding: 6px 7px 5px;
+    line-height: 1
+}
+
+body .td_uid_42_5b328978347e5_rand .block-title {
+    border-color: #607d8b
+}
+
+body .td_uid_43_5b328978357ac_rand .td_module_wrap:hover .entry-title a,
+body .td_uid_43_5b328978357ac_rand .td-pulldown-filter-link:hover,
+body .td_uid_43_5b328978357ac_rand .td-subcat-item a:hover,
+body .td_uid_43_5b328978357ac_rand .td-subcat-item .td-cur-simple-item,
+body .td_uid_43_5b328978357ac_rand .td_quote_on_blocks,
+body .td_uid_43_5b328978357ac_rand .td-opacity-cat .td-post-category:hover,
+body .td_uid_43_5b328978357ac_rand .td-opacity-read .td-read-more a:hover,
+body .td_uid_43_5b328978357ac_rand .td-opacity-author .td-post-author-name a:hover,
+body .td_uid_43_5b328978357ac_rand .td-instagram-user a {
+    color: #f44336
+}
+
+body .td_uid_43_5b328978357ac_rand .td-next-prev-wrap a:hover,
+body .td_uid_43_5b328978357ac_rand .td-load-more-wrap a:hover {
+    background-color: #f44336;
+    border-color: #f44336
+}
+
+body .td_uid_43_5b328978357ac_rand .block-title>*,
+body .td_uid_43_5b328978357ac_rand .td-trending-now-title,
+body .td_uid_43_5b328978357ac_rand .td-read-more a,
+body .td_uid_43_5b328978357ac_rand .td-weather-information:before,
+body .td_uid_43_5b328978357ac_rand .td-weather-week:before,
+body .td_uid_43_5b328978357ac_rand .td-subcat-dropdown:hover .td-subcat-more,
+body .td_uid_43_5b328978357ac_rand .td-exchange-header:before,
+body .td-footer-wrapper .td_uid_43_5b328978357ac_rand .td-post-category,
+body .td_uid_43_5b328978357ac_rand .td-post-category:hover {
+    background-color: #f44336
+}
+
+body .td-footer-wrapper .td_uid_43_5b328978357ac_rand .block-title>* {
+    padding: 6px 7px 5px;
+    line-height: 1
+}
+
+body .td_uid_43_5b328978357ac_rand .block-title {
+    border-color: #f44336
+}
+
+body .td_uid_59_5b3289783c2c8_rand .td_module_wrap:hover .entry-title a,
+body .td_uid_59_5b3289783c2c8_rand .td-pulldown-filter-link:hover,
+body .td_uid_59_5b3289783c2c8_rand .td-subcat-item a:hover,
+body .td_uid_59_5b3289783c2c8_rand .td-subcat-item .td-cur-simple-item,
+body .td_uid_59_5b3289783c2c8_rand .td_quote_on_blocks,
+body .td_uid_59_5b3289783c2c8_rand .td-opacity-cat .td-post-category:hover,
+body .td_uid_59_5b3289783c2c8_rand .td-opacity-read .td-read-more a:hover,
+body .td_uid_59_5b3289783c2c8_rand .td-opacity-author .td-post-author-name a:hover,
+body .td_uid_59_5b3289783c2c8_rand .td-instagram-user a {
+    color: #ff7500
+}
+
+body .td_uid_59_5b3289783c2c8_rand .td-next-prev-wrap a:hover,
+body .td_uid_59_5b3289783c2c8_rand .td-load-more-wrap a:hover {
+    background-color: #ff7500;
+    border-color: #ff7500
+}
+
+body .td_uid_59_5b3289783c2c8_rand .block-title>*,
+body .td_uid_59_5b3289783c2c8_rand .td-trending-now-title,
+body .td_uid_59_5b3289783c2c8_rand .td-read-more a,
+body .td_uid_59_5b3289783c2c8_rand .td-weather-information:before,
+body .td_uid_59_5b3289783c2c8_rand .td-weather-week:before,
+body .td_uid_59_5b3289783c2c8_rand .td-subcat-dropdown:hover .td-subcat-more,
+body .td_uid_59_5b3289783c2c8_rand .td-exchange-header:before,
+body .td-footer-wrapper .td_uid_59_5b3289783c2c8_rand .td-post-category,
+body .td_uid_59_5b3289783c2c8_rand .td-post-category:hover {
+    background-color: #ff7500
+}
+
+body .td-footer-wrapper .td_uid_59_5b3289783c2c8_rand .block-title>* {
+    padding: 6px 7px 5px;
+    line-height: 1
+}
+
+body .td_uid_59_5b3289783c2c8_rand .block-title {
+    border-color: #ff7500
+}
+
+body .td_uid_65_5b3289783d542_rand .td_module_wrap:hover .entry-title a,
+body .td_uid_65_5b3289783d542_rand .td-pulldown-filter-link:hover,
+body .td_uid_65_5b3289783d542_rand .td-subcat-item a:hover,
+body .td_uid_65_5b3289783d542_rand .td-subcat-item .td-cur-simple-item,
+body .td_uid_65_5b3289783d542_rand .td_quote_on_blocks,
+body .td_uid_65_5b3289783d542_rand .td-opacity-cat .td-post-category:hover,
+body .td_uid_65_5b3289783d542_rand .td-opacity-read .td-read-more a:hover,
+body .td_uid_65_5b3289783d542_rand .td-opacity-author .td-post-author-name a:hover,
+body .td_uid_65_5b3289783d542_rand .td-instagram-user a {
+    color: #4db2ec
+}
+
+body .td_uid_65_5b3289783d542_rand .td-next-prev-wrap a:hover,
+body .td_uid_65_5b3289783d542_rand .td-load-more-wrap a:hover {
+    background-color: #4db2ec;
+    border-color: #4db2ec
+}
+
+body .td_uid_65_5b3289783d542_rand .block-title>*,
+body .td_uid_65_5b3289783d542_rand .td-trending-now-title,
+body .td_uid_65_5b3289783d542_rand .td-read-more a,
+body .td_uid_65_5b3289783d542_rand .td-weather-information:before,
+body .td_uid_65_5b3289783d542_rand .td-weather-week:before,
+body .td_uid_65_5b3289783d542_rand .td-subcat-dropdown:hover .td-subcat-more,
+body .td_uid_65_5b3289783d542_rand .td-exchange-header:before,
+body .td-footer-wrapper .td_uid_65_5b3289783d542_rand .td-post-category,
+body .td_uid_65_5b3289783d542_rand .td-post-category:hover {
+    background-color: #4db2ec
+}
+
+body .td-footer-wrapper .td_uid_65_5b3289783d542_rand .block-title>* {
+    padding: 6px 7px 5px;
+    line-height: 1
+}
+
+body .td_uid_65_5b3289783d542_rand .block-title {
+    border-color: #4db2ec
+}
+
+img.wp-smiley,
+img.emoji {
+    display: inline !important;
+    border: none !important;
+    box-shadow: none !important;
+    height: 1em !important;
+    width: 1em !important;
+    margin: 0 .07em !important;
+    vertical-align: -.1em !important;
+    background: none !important;
+    padding: 0 !important
+}
