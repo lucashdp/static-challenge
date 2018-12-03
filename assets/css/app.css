@@ -3387,12 +3387,6 @@ ul.sf-menu li li:hover li ul,ul.sf-menu li li.sfHover li ul{
         padding-right:22px
     }
 }
-a.sf-with-ul i.td-icon-menu-down:before{
-    content:'\e808'
-}
-ul.sf-js-enabled>li>a>i.td-icon-menu-down:before{
-    content:'\e806'!important
-}
 .td-mega-menu{
     position:static!important
 }
@@ -23848,9 +23842,6 @@ body .td-page-title{
 }
 .td-icon-views:before{
     content:'\e805'
-}
-.td-icon-menu-down:before{
-    content:'\e806'
 }
 .td-icon-left-arrow:before{
     content:'\e807'
