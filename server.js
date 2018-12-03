@@ -14,6 +14,7 @@ app.use('/assets/icons', express.static('assets/icons'));
 app.use('/assets/imgs', express.static('assets/imgs'));
 app.use('/assets/js', express.static('assets/js'));
 app.use('/assets/sprites', express.static('assets/sprites'));
+app.use('/node_modules', express.static('node_modules'));
 
 routes(app);
 app.listen(port, () => {
