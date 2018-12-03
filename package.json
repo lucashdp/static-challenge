@@ -23,6 +23,8 @@
     "path": "^0.12.7"
   },
   "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-concat": "^1.0.1",
     "nodemon": "^1.18.7"
   }
 }
